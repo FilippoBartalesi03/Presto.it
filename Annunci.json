@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "name": "Felpa Nike Club Fleece",
+    "category": "Felpe",
+    "price": 59.99,
+    "image": "media/felpa-fleece.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Felpa con cappuccio Nike Sportswear",
+    "category": "Felpe",
+    "price": 64.99,
+    "image": "media/felpa-2.jpeg",
+    "sizes": ["M", "L"],
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Felpa Nike Tech Fleece",
+    "category": "Felpe",
+    "price": 89.99,
+    "image": "media/felpa-3.jpeg",
+    "sizes": ["S", "M", "L"],
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Felpa Nike con zip intera",
+    "category": "Felpe",
+    "price": 74.99,
+    "image": "media/felpa-4.jpeg",
+    "sizes": ["L", "XL"],
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Felpa training Nike Therma",
+    "category": "Felpe",
+    "price": 69.99,
+    "image": "media/felpa-5.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Felpa Nike Air",
+    "category": "Felpe",
+    "price": 79.99,
+    "image": "media/felpa-6.jpeg",
+    "sizes": ["S", "M"],
+    "available": false
+  },
+  {
+    "id": 7,
+    "name": "Scarpa Nike Air Max 90",
+    "category": "Scarpe",
+    "price": 139.99,
+    "image": "media/scarpa-1.jpeg",
+    "sizes": ["40", "41", "42", "43"],
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Scarpa Nike Air Force 1",
+    "category": "Scarpe",
+    "price": 119.99,
+    "image": "media/scarpa-2.jpeg",
+    "sizes": ["38", "39", "40"],
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Scarpa Nike Revolution 6",
+    "category": "Scarpe",
+    "price": 69.99,
+    "image": "media/scarpa-3.jpeg",
+    "sizes": ["41", "42", "43"],
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Scarpa da corsa Nike Pegasus",
+    "category": "Scarpe",
+    "price": 129.99,
+    "image": "media/scarpa-4.jpeg",
+    "sizes": ["40", "41", "44"],
+    "available": true
+  },
+    {
+    "id": 11,
+    "name": "Scarpa Nike Blazer Mid",
+    "category": "Scarpe",
+    "price": 99.99,
+    "image": "media/scarpa-5.jpeg",
+    "sizes": ["42", "43"],
+    "available": false
+  },
+  {
+    "id": 12,
+    "name": "Scarpa Nike Waffle One",
+    "category": "Scarpe",
+    "price": 89.99,
+    "image": "media/scarpa-6.jpeg",
+    "sizes": ["40", "41"],
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Scarpa Nike Court Vision",
+    "category": "Scarpe",
+    "price": 79.99,
+    "image": "media/scarpa-7.jpeg",
+    "sizes": ["38", "39", "40"],
+    "available": true
+  },
+  {
+    "id": 14,
+    "name": "Scarpa Nike Free Run",
+    "category": "Scarpe",
+    "price": 109.99,
+    "image": "media/scarpa-8.jpeg",
+    "sizes": ["41", "42", "43", "44"],
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Tuta Nike Sportswear",
+    "category": "Tute",
+    "price": 99.99,
+    "image": "media/tuta-1.jpeg",
+    "sizes": ["S", "M", "L"],
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "Tuta in fleece Nike",
+    "category": "Tute",
+    "price": 89.99,
+    "image": "media/tuta-2.jpeg",
+    "sizes": ["M", "L"],
+    "available": false
+  },
+  {
+    "id": 17,
+    "name": "Tuta training Nike",
+    "category": "Tute",
+    "price": 109.99,
+    "image": "media/tuta-3.jpeg",
+    "sizes": ["S", "M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Tuta Nike Tech",
+    "category": "Tute",
+    "price": 129.99,
+    "image": "media/tuta-4.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 19,
+    "name": "Tuta casual Nike",
+    "category": "Tute",
+    "price": 79.99,
+    "image": "media/tuta-5.jpeg",
+    "sizes": ["S", "M"],
+    "available": true
+  },
+  {
+    "id": 20,
+    "name": "T-shirt Nike Sportswear",
+    "category": "T-shirt",
+    "price": 29.99,
+    "image": "media/t-shirt-1.jpeg",
+    "sizes": ["S", "M", "L", "XL"],
+    "available": true
+  },
+    {
+    "id": 21,
+    "name": "T-shirt Nike Dri-FIT",
+    "category": "T-shirt",
+    "price": 34.99,
+    "image": "media/tshirt-2.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 22,
+    "name": "T-shirt Nike Air",
+    "category": "T-shirt",
+    "price": 27.99,
+    "image": "media/tshirt-3.jpeg",
+    "sizes": ["S", "M"],
+    "available": false
+  },
+  {
+    "id": 23,
+    "name": "T-shirt oversize Nike",
+    "category": "T-shirt",
+    "price": 32.99,
+    "image": "media/tshirt-4.jpeg",
+    "sizes": ["L", "XL"],
+    "available": true
+  },
+  {
+    "id": 24,
+    "name": "T-shirt con logo Nike",
+    "category": "T-shirt",
+    "price": 25.99,
+    "image": "media/tshirt-5.jpeg",
+    "sizes": ["M", "L"],
+    "available": true
+  },
+  {
+    "id": 25,
+    "name": "T-shirt running Nike",
+    "category": "T-shirt",
+    "price": 39.99,
+    "image": "media/tshirt-6.jpeg",
+    "sizes": ["S", "M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 26,
+    "name": "Pantaloni Nike Tech",
+    "category": "Pantaloni",
+    "price": 74.99,
+    "image": "media/pantaloni-1.avif",
+    "sizes": ["S", "M", "L"],
+    "available": true
+  },
+  {
+    "id": 27,
+    "name": "Joggers Nike Club",
+    "category": "Pantaloni",
+    "price": 54.99,
+    "image": "media/pantaloni-2.jpeg",
+    "sizes": ["M", "L"],
+    "available": true
+  },
+  {
+    "id": 28,
+    "name": "Pantaloni training Nike",
+    "category": "Pantaloni",
+    "price": 64.99,
+    "image": "media/pantaloni-3.jpeg",
+    "sizes": ["S", "M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 29,
+    "name": "Pantaloni cargo Nike",
+    "category": "Pantaloni",
+    "price": 69.99,
+    "image": "media/pantaloni-4.jpeg",
+    "sizes": ["L", "XL"],
+    "available": false
+  },
+  {
+    "id": 30,
+    "name": "Pantaloni slim Nike",
+    "category": "Pantaloni",
+    "price": 59.99,
+    "image": "media/pantaloni-5.jpeg",
+    "sizes": ["S", "M"],
+    "available": true
+  },
+    {
+    "id": 31,
+    "name": "Pantaloni con zip Nike",
+    "category": "Pantaloni",
+    "price": 64.99,
+    "image": "media/pantaloni-6.jpeg",
+    "sizes": ["M", "L"],
+    "available": true
+  },
+  {
+    "id": 32,
+    "name": "Pantaloni larghi Nike",
+    "category": "Pantaloni",
+    "price": 69.99,
+    "image": "media/pantaloni-7.jpeg",
+    "sizes": ["L", "XL"],
+    "available": true
+  },
+  {
+    "id": 33,
+    "name": "Giacca a vento Nike",
+    "category": "Giacche",
+    "price": 129.99,
+    "image": "media/giacca-1.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "available": true
+  },
+  {
+    "id": 34,
+    "name": "Giacca impermeabile Nike",
+    "category": "Giacche",
+    "price": 149.99,
+    "image": "media/giacca-2.jpeg",
+    "sizes": ["S", "M", "L"],
+    "available": true
+  },
+  {
+    "id": 35,
+    "name": "Bomber Nike",
+    "category": "Giacche",
+    "price": 119.99,
+    "image": "media/giacca-3.jpeg",
+    "sizes": ["M", "L"],
+    "available": false
+  },
+  {
+    "id": 36,
+    "name": "Giacca con zip Nike",
+    "category": "Giacche",
+    "price": 99.99,
+    "image": "media/giacca-4.jpeg",
+    "sizes": ["L", "XL"],
+    "available": true
+  }
+]
+
+
+

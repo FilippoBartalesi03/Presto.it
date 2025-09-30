@@ -1,0 +1,248 @@
+:root{
+    --black : rgb(26,26,26);
+    --white : rgb(250,250,250);
+    --gold : rgb(204,186,120);
+}
+
+body{
+    overflow-x: hidden;
+}
+
+*{
+    font-family: "Outfit", sans-serif;
+}
+
+h1,h2,h3,h4,h5, .h1,.h2,.h3{
+    font-family: "Krona One", sans-serif;
+}
+
+.tx-black{
+    color: var(--black);
+}
+
+.tx-white{
+    color: var(--white);
+}
+
+.tx-gold{
+    color: var(--gold);
+}
+
+.bg-black{
+    background-color: var(--black);
+}
+
+.bg-white{
+    background-color: var(--white);
+}
+
+.bg-gold{
+    background-color: var(--gold);
+}
+
+.margin-black{
+    margin: 2px solid var(--black);
+}
+
+.margin-white{
+    margin: 2px solid var(--white);
+}
+
+.margin-gold{
+    margin: 2px solid var(--gold);
+}
+
+/* css navbar */
+
+.img-logo {
+  height: 30px;
+  width: auto;
+}
+
+.nav-link {
+    font-weight: bold;
+    color: var(--black);
+}
+
+.nav-link:hover{
+    border-bottom: 4px solid var(--gold);
+}
+
+.fa-solid {
+    font-size: 20px;
+}
+
+.fa-regular {
+    font-size: 20px;
+}
+
+nav{
+    background-color: var(--white);
+    height: 90px;
+    z-index: 1000;
+    
+}
+
+.navbar-custom{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.nav-scroll{
+    background-color: var(--black);
+    transition: 0.8s;
+}
+
+/* fine navbar */
+
+/* CSS header */
+
+.header-custom{
+    height: 100vh;
+    padding-top: 90px;
+    background: linear-gradient( rgba(250,250,250,0.8), rgba(26,26,26,0.3)), url(./media/header1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.form-control{
+    width: 250px;
+}
+
+.btn-custom{
+    background-color: transparent;
+    color: var(--white);
+    border: 2px solid var(--gold);
+    height: 50px;
+    width: 100px;
+}
+
+.btn-custom:hover{
+    background-color: var(--gold);
+    color: var(--black);
+    border: 2px solid var(--white);
+    height: 50px;
+    width: 100px;
+}
+
+.form-control:focus{
+    border-color: var(--gold);
+    box-shadow: 0 0 0 transparent;
+    color: var(--black);
+}
+
+.scarpa{
+    height: 60vh;
+    width: auto;
+}
+
+.section-animate{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-custom2{
+    background-color: transparent;
+    color: var(--black);
+    border: 3px solid var(--gold);
+    height: 40px;
+    width: 100px;
+    box-shadow: 4px 4px 2px rgba(26,26,26,0.7);
+}
+
+.btn-custom2:hover{
+    border-bottom: 3px solid var(--gold);
+}
+
+.section-number{
+    height: 60vh;
+    background: linear-gradient( rgba(26,26,26,0.8), rgba(26,26,26,0.3)), url(./media/number.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.row-numbers{
+    height: 60vh;
+}
+
+.number{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+/* pagina shop */
+
+.shopheader{
+    margin-top: 90px;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: var(--gold);
+    color: var(--white);
+}
+
+.accordion-button:focus{
+    box-shadow: none;
+}
+
+.form-check-input:checked{
+    background-color: var(--gold);
+    border-color: var(--black);
+}
+
+.card-custom{
+    height: 500px;
+    width: 30%;
+    border: 2px solid var(--gold);
+    color: var(--black);
+}
+
+#cardWrapper img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  display: block;
+}
+
+
+#priceInput::-webkit-slider-runnable-track {
+  background: var(--gold);
+  height: 8px;
+  border-radius: 4px;
+}
+
+
+#priceInput::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  background: #ff5722;
+  border-radius: 50%;
+  cursor: pointer;
+  border: none;
+  
+  margin-top: -4px;
+}
+
+
+#priceInput::-moz-range-track {
+  background: #4CAF50;
+  height: 8px;
+  border-radius: 4px;
+}
+
+#priceInput::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  background: #ff5722;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}
+
+#wordInput{
+    width: 100%;
+}

@@ -319,7 +319,7 @@
     "name": "Giacca con zip Nike",
     "category": "Giacche",
     "price": 99.99,
-    "image": "media/giacca-4.jpeg",
+    "image": "media/giacca-4git push -u origin main.jpeg",
     "sizes": ["L", "XL"],
     "available": true
   }

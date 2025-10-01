@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "name": "Scarpa Nike Air Max 90",
+    "name": "Scarpe Nike Air Max 90",
     "category": "Scarpe",
     "price": 139.99,
     "image": "media/scarpa-1.jpeg",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "name": "Scarpa Nike Air Force 1",
+    "name": "Scarpe Nike Air Force 1",
     "category": "Scarpe",
     "price": 119.99,
     "image": "media/scarpa-2.jpeg",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "name": "Scarpa Nike Revolution 6",
+    "name": "Scarpe Nike Revolution 6",
     "category": "Scarpe",
     "price": 69.99,
     "image": "media/scarpa-3.jpeg",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "name": "Scarpa da corsa Nike Pegasus",
+    "name": "Scarpe da corsa Nike Pegasus",
     "category": "Scarpe",
     "price": 129.99,
     "image": "media/scarpa-4.jpeg",
@@ -91,7 +91,7 @@
   },
     {
     "id": 11,
-    "name": "Scarpa Nike Blazer Mid",
+    "name": "Scarpe Nike Blazer Mid",
     "category": "Scarpe",
     "price": 99.99,
     "image": "media/scarpa-5.jpeg",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "name": "Scarpa Nike Waffle One",
+    "name": "Scarpe Nike Waffle One",
     "category": "Scarpe",
     "price": 89.99,
     "image": "media/scarpa-6.jpeg",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "Scarpa Nike Court Vision",
+    "name": "Scarpe Nike Court Vision",
     "category": "Scarpe",
     "price": 79.99,
     "image": "media/scarpa-7.jpeg",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-    "name": "Scarpa Nike Free Run",
+    "name": "Scarpe Nike Free Run",
     "category": "Scarpe",
     "price": 109.99,
     "image": "media/scarpa-8.jpeg",
